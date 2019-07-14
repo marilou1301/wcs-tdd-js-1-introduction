@@ -22,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/marilou1301/wcs-tdd-js-1-introduction/issues"
   },
-  "homepage": "https://github.com/marilou1301/wcs-tdd-js-1-introduction#readme"
+  "homepage": "https://github.com/marilou1301/wcs-tdd-js-1-introduction#readme",
+  "dependencies": {}
 }
