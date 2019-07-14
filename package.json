@@ -11,5 +11,16 @@
   "license": "ISC",
   "devDependencies": {
     "mocha": "^6.1.4"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marilou1301/wcs-tdd-js-1-introduction.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marilou1301/wcs-tdd-js-1-introduction/issues"
+  },
+  "homepage": "https://github.com/marilou1301/wcs-tdd-js-1-introduction#readme"
 }
